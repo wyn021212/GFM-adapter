@@ -1,0 +1,14 @@
+{
+  "model": "GCOPE",
+  "target": "Cora",
+  "sources": [
+    "Citeseer",
+    "Pubmed",
+    "Photo",
+    "Computers",
+    "Cornell",
+    "Chameleon"
+  ],
+  "file": "citeseer,pubmed,photo,computers,cornell,chameleon_pretrained_model.pt",
+  "sha256": "3cc9e0f9446d1caf52f32169888176ce46410c82600346e51e7fb2aac37213b6"
+}

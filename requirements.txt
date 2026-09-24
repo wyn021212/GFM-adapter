@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.6.1
+torch-geometric>=2.6,<3
+networkx==3.4.2
+pandas==2.2.3
+tqdm==4.67.1
+matplotlib>=3.8
+munkres==1.1.4
+opencv-python-headless>=4.8,<4.12

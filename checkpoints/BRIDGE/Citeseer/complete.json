@@ -1,0 +1,14 @@
+{
+  "model": "BRIDGE",
+  "target": "Citeseer",
+  "sources": [
+    "Cora",
+    "Pubmed",
+    "Photo",
+    "Computers",
+    "Cornell",
+    "Chameleon"
+  ],
+  "file": "model.pt",
+  "sha256": "92291acebcc83bf451a1b114f74e7ac434f1a8db971c43a140be4a8d0ee039e5"
+}

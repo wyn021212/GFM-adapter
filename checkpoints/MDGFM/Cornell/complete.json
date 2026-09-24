@@ -1,0 +1,14 @@
+{
+  "model": "MDGFM",
+  "target": "Cornell",
+  "sources": [
+    "Cora",
+    "Citeseer",
+    "Pubmed",
+    "Photo",
+    "Computers",
+    "Chameleon"
+  ],
+  "file": "model.pt",
+  "sha256": "32f6c70cce33b87b691de32c81dbf19b5cff0f311219058df79a30cf42b6b2c6"
+}

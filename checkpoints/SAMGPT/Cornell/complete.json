@@ -1,0 +1,14 @@
+{
+  "model": "SAMGPT",
+  "target": "Cornell",
+  "sources": [
+    "Cora",
+    "Citeseer",
+    "Pubmed",
+    "Photo",
+    "Computers",
+    "Chameleon"
+  ],
+  "file": "model.pt",
+  "sha256": "b70f8fba87539cbb90da25584688ac6049c1589c5783a1ccd26d7f87730226f6"
+}

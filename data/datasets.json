@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Cora",
+    "nodes": 2708,
+    "feature_shape": [
+      2708,
+      50
+    ],
+    "adjacency_shape": [
+      2708,
+      2708
+    ],
+    "stored_edges": 10556,
+    "class_counts": [
+      351,
+      217,
+      418,
+      818,
+      426,
+      298,
+      180
+    ],
+    "graph_samples": 2708,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Citeseer",
+    "nodes": 3327,
+    "feature_shape": [
+      3327,
+      50
+    ],
+    "adjacency_shape": [
+      3327,
+      3327
+    ],
+    "stored_edges": 9104,
+    "class_counts": [
+      264,
+      590,
+      668,
+      701,
+      596,
+      508
+    ],
+    "graph_samples": 3327,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Pubmed",
+    "nodes": 19717,
+    "feature_shape": [
+      19717,
+      50
+    ],
+    "adjacency_shape": [
+      19717,
+      19717
+    ],
+    "stored_edges": 88648,
+    "class_counts": [
+      4103,
+      7739,
+      7875
+    ],
+    "graph_samples": 19717,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Photo",
+    "nodes": 7650,
+    "feature_shape": [
+      7650,
+      50
+    ],
+    "adjacency_shape": [
+      7650,
+      7650
+    ],
+    "stored_edges": 238162,
+    "class_counts": [
+      369,
+      1686,
+      703,
+      915,
+      882,
+      823,
+      1941,
+      331
+    ],
+    "graph_samples": 7650,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Computers",
+    "nodes": 13752,
+    "feature_shape": [
+      13752,
+      50
+    ],
+    "adjacency_shape": [
+      13752,
+      13752
+    ],
+    "stored_edges": 491722,
+    "class_counts": [
+      436,
+      2142,
+      1414,
+      542,
+      5158,
+      308,
+      487,
+      818,
+      2156,
+      291
+    ],
+    "graph_samples": 13752,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Cornell",
+    "nodes": 183,
+    "feature_shape": [
+      183,
+      50
+    ],
+    "adjacency_shape": [
+      183,
+      183
+    ],
+    "stored_edges": 298,
+    "class_counts": [
+      33,
+      1,
+      18,
+      101,
+      30
+    ],
+    "graph_samples": 183,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  },
+  {
+    "name": "Chameleon",
+    "nodes": 2277,
+    "feature_shape": [
+      2277,
+      50
+    ],
+    "adjacency_shape": [
+      2277,
+      2277
+    ],
+    "stored_edges": 36101,
+    "class_counts": [
+      456,
+      460,
+      453,
+      521,
+      387
+    ],
+    "graph_samples": 2277,
+    "graph_protocol": "center_node_ego_graph_10x4_duplicate_preserving"
+  }
+]

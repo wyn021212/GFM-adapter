@@ -1,0 +1,14 @@
+{
+  "model": "GRAVER",
+  "target": "Cora",
+  "sources": [
+    "Citeseer",
+    "Pubmed",
+    "Photo",
+    "Computers",
+    "Cornell",
+    "Chameleon"
+  ],
+  "file": "model.pt",
+  "sha256": "110e31998c725ec4d390a96ca5d17dda94ddcbd98e4e31a5d98a6d916097183f"
+}
