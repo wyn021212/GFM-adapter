@@ -1,6 +1,6 @@
-# Graph Adapter
+# TAGFM
 
-Feature and structure adaptation for frozen graph backbones. The package supports node classification and ego-graph classification with BRIDGE, MDGFM, SAMGPT, GRAVER, and GCOPE.
+TAGFM adapts node features and graph structure for frozen graph backbones. It supports node classification and ego-graph classification with BRIDGE, MDGFM, SAMGPT, GRAVER, and GCOPE.
 
 Feature adaptation uses a residual MLP and input-space MCR regularization with fixed soft assignments from the original backbone embeddings. Layer-normalized original and adapted embeddings are added, then classified with class prototypes, top-k pseudo-label refinement, and score diffusion. Per-dataset configuration files contain the runtime parameters for this method.
 

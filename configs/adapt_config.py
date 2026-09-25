@@ -4,7 +4,7 @@ from pathlib import Path
 from configs.base_config import ROOT, BACKBONES, DATASETS
 
 def parse_config(argv=None):
-    parser = argparse.ArgumentParser(description='Feature and structure adaptation for graph backbones')
+    parser = argparse.ArgumentParser(description='TAGFM: feature and structure adaptation for frozen graph backbones')
     parser.add_argument('--run_type', choices=['adapt', 'build_graph'], default='adapt')
     parser.add_argument('--task_type', choices=['node_cls', 'graph_cls'], default='node_cls')
     parser.add_argument('--backbone', choices=BACKBONES, default='BRIDGE')
